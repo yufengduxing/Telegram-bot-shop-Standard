@@ -73,6 +73,7 @@ supervisorctl status tg_shop_bot
 
 ```bash
 echo "alias bot='bash /www/wwwroot/根目录/install.sh'" >> ~/.bashrc && source ~/.bashrc
+
 ```
 
 ## 查看日志
