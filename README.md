@@ -46,8 +46,9 @@
 cd /www/wwwroot/TG-Bot-Fixed（TG-Bot-Fixed替换成自己的根目录）
 chmod +x install.sh
 bash install.sh
-
 ```
+
+---
 
 脚本会引导你输入：
 1. Bot Token（从 @BotFather 获取）
@@ -73,8 +74,9 @@ supervisorctl status tg_shop_bot
 
 ```bash
 echo "alias bot='bash /www/wwwroot/根目录/install.sh'" >> ~/.bashrc && source ~/.bashrc
-
 ```
+
+---
 
 ## 查看日志
 
