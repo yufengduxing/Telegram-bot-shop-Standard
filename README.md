@@ -1,4 +1,4 @@
-# TG 卖货机器人（修复版）
+# TG 卖货机器人-Standard（修复版）
 
 ### 机场推荐：
 - 曙光云：https://dawnscloud.com
