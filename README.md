@@ -61,14 +61,14 @@
 
 ### 步骤五：上传文件
 
-将整个 `TG-Bot-Fixed` 文件夹上传到服务器任意目录，例如 `/www/wwwroot/根目录`
+将整个 `TG-Bot-Fixed` 文件夹上传到服务器任意目录，例如 `/www/wwwroot/自己的目录`
 
 ---
 
 ### 步骤六：SSH 执行安装
 
 ```bash
-cd /www/wwwroot/TG-Bot-Fixed（TG-Bot-Fixed替换成自己的根目录）
+cd /www/wwwroot/TG-Bot-Fixed（TG-Bot-Fixed替换成自己的目录）
 chmod +x install.sh
 bash install.sh
 ```
